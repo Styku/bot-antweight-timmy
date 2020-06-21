@@ -1,19 +1,19 @@
 # Timmy build guide
 
-Here you'll find a step by step guide to build Timmy. Actually, it's very short:
 1. Get all of the components
 2. Print the chassis
-3. Solder electronics together (not detailed here, as it's a very generic step)
+3. Solder electronics together
 4. Program the transmitter
 
 ## Required components
-* 2x Turnigy 15mm 75:1 motor
-* 2x Brushed ESC
-* Brushless motor
-* Brushless ESC
-* Saw blade
-* Turnigy NanoTech 2S LiPo
-* Turnigy i6 receiver
+Bear in mind that many of these parts may not be available or even produced anymore. Links are provided only for reference - just find something with similar characteristics and you'll be fine.
+* 2x [Turnigy 15mm 75:1 motor](https://hobbyking.com/fr_fr/brushed-motor-15mm-6v-20000kv-w-75-1-ratio-gearbox.html)
+* 2x [Brushed ESC](https://www.aliexpress.com/item/32888425852.html?spm=a2g0s.9042311.0.0.16024c4dQrNdOv)
+* [Brushless motor](https://hobbyking.com/en_us/brushless-motor-d2205-2600kv-ccw.html)
+* [Brushless ESC](https://hobbyking.com/en_us/afro-esc-12amp-multi-rotor-motor-speed-controller-simonk-firmware.html)
+* [Saw blade](https://www.leroymerlin.fr/v3/p/produits/lame-bois-coupe-rapide-et-grossiere-dexter-power-pour-bois-e1400768268)
+* [Turnigy NanoTech 2S LiPo](https://hobbyking.com/fr_fr/turnigy-nano-tech-370mah-2s-25-40c-lipo-pack.html)
+* [Turnigy i6 receiver](https://hobbyking.com/fr_fr/turnigy-ia6-receiver-6ch-2-4g-afhds-2a-receiver.html)
 * 3x 2.5 x 16mm wood screws
 
 ## Required tools
